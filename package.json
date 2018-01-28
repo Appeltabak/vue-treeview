@@ -22,6 +22,6 @@
   },
   "scripts": {
     "build": "webpack",
-    "dev": "webpack-dev-server --open --hotOnly"
+    "dev": "webpack-dev-server --open"
   }
 }
